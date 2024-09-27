@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0596a294-3f39-49b2-8125-8bb3d022887a" name="Changes" comment="First Try to Heroku">
-      <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Procfile" afterDir="false" />
+    <list default="true" id="0596a294-3f39-49b2-8125-8bb3d022887a" name="Changes" comment="Gunicorn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727144891514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Gunicorn">
+      <option name="closed" value="true" />
+      <created>1727145272699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727145272699</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exam 1 Complete" />
     <MESSAGE value="First Try to Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Try to Heroku" />
+    <MESSAGE value="Gunicorn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gunicorn" />
   </component>
 </project>
